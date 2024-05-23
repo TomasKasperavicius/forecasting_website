@@ -1,0 +1,17 @@
+.file-link {
+  cursor: default;
+}
+.file-link:hover {
+  opacity: 1;
+  cursor: pointer;
+}
+.add-file-icon {
+  opacity: 1;
+  transition: all 1s ease-in-out;
+  cursor: default;
+}
+.add-file-icon:hover {
+  opacity: 0.3;
+  cursor: pointer;
+  transform: scale(1.2);
+}
